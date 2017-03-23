@@ -1,0 +1,4 @@
+---
+slug: legala
+name: legala
+---
